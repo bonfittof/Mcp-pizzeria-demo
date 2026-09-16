@@ -1,0 +1,127 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "nome": "Margherita",
+      "ingredienti": "pomodoro, mozzarella, basilico",
+      "prezzo": 6.5
+    },
+    {
+      "id": 2,
+      "nome": "Marinara",
+      "ingredienti": "pomodoro, aglio, origano",
+      "prezzo": 5.5
+    },
+    {
+      "id": 3,
+      "nome": "Diavola",
+      "ingredienti": "pomodoro, mozzarella, salame piccante",
+      "prezzo": 8.0
+    },
+    {
+      "id": 4,
+      "nome": "Capricciosa",
+      "ingredienti": "pomodoro, mozzarella, prosciutto cotto, funghi, carciofi, olive",
+      "prezzo": 9.0
+    },
+    {
+      "id": 5,
+      "nome": "Quattro Stagioni",
+      "ingredienti": "pomodoro, mozzarella, prosciutto cotto, funghi, carciofi, olive",
+      "prezzo": 9.5
+    },
+    {
+      "id": 6,
+      "nome": "Quattro Formaggi",
+      "ingredienti": "mozzarella, gorgonzola, fontina, parmigiano",
+      "prezzo": 9.0
+    },
+    {
+      "id": 7,
+      "nome": "Prosciutto e Funghi",
+      "ingredienti": "pomodoro, mozzarella, prosciutto cotto, funghi",
+      "prezzo": 8.5
+    },
+    {
+      "id": 8,
+      "nome": "Napoli",
+      "ingredienti": "pomodoro, mozzarella, acciughe, origano",
+      "prezzo": 7.5
+    },
+    {
+      "id": 9,
+      "nome": "Vegetariana",
+      "ingredienti": "pomodoro, mozzarella, zucchine, melanzane, peperoni",
+      "prezzo": 8.5
+    },
+    {
+      "id": 10,
+      "nome": "Bufala",
+      "ingredienti": "pomodoro, mozzarella di bufala, basilico",
+      "prezzo": 9.5
+    }
+  ],
+  "tavoli": [
+    {
+      "numero": 1,
+      "posti": 2
+    },
+    {
+      "numero": 2,
+      "posti": 2
+    },
+    {
+      "numero": 3,
+      "posti": 4
+    },
+    {
+      "numero": 4,
+      "posti": 4
+    },
+    {
+      "numero": 5,
+      "posti": 4
+    },
+    {
+      "numero": 6,
+      "posti": 6
+    },
+    {
+      "numero": 7,
+      "posti": 6
+    },
+    {
+      "numero": 8,
+      "posti": 6
+    }
+  ],
+  "prenotazioni": [
+    {
+      "id": 1,
+      "nome": "Mario Rossi",
+      "telefono": "3331234567",
+      "data": "2026-09-20",
+      "ora": "20:00",
+      "persone": 4,
+      "tavolo": 3
+    },
+    {
+      "id": 2,
+      "nome": "Giulia Bianchi",
+      "telefono": "3487654321",
+      "data": "2026-09-20",
+      "ora": "21:00",
+      "persone": 2,
+      "tavolo": 1
+    },
+    {
+      "id": 3,
+      "nome": "Luca Verdi",
+      "telefono": "3391122334",
+      "data": "2026-09-21",
+      "ora": "19:30",
+      "persone": 6,
+      "tavolo": 6
+    }
+  ]
+}
